@@ -1,4 +1,4 @@
-# amazon_selling
+# Amazon_selling
 
 ## The Ultimate Deep Dive: Selling on Amazon - From Absolute Zero to Scaling (No Shortcuts, Fully Explained)
 
